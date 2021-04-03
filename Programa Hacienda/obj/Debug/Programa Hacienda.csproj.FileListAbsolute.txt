@@ -1,0 +1,48 @@
+D:\Programa Hacienda\Programa Hacienda\bin\Debug\Programa Hacienda.exe.config
+D:\Programa Hacienda\Programa Hacienda\bin\Debug\Programa Hacienda.exe
+D:\Programa Hacienda\Programa Hacienda\bin\Debug\Programa Hacienda.pdb
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Logeo.resources
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Properties.Resources.resources
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa Hacienda.csproj.GenerateResource.Cache
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa Hacienda.exe
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa Hacienda.pdb
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Menu_Principal.resources
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Oficinas_Principales.resources
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Unidad_Responsable.resources
+D:\Programa Hacienda\Programa Hacienda\bin\Debug\Interop.AcroPDFLib.dll
+D:\Programa Hacienda\Programa Hacienda\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Interop.AcroPDFLib.dll
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa Hacienda.csproj.ResolveComReference.cache
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Historial.resources
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Manual.resources
+E:\Programa Hacienda\Programa Hacienda\bin\Debug\Programa Hacienda.exe.config
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Interop.AcroPDFLib.dll
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa Hacienda.csproj.ResolveComReference.cache
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa Hacienda.exe
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa Hacienda.pdb
+E:\Programa Hacienda\Programa Hacienda\bin\Debug\Programa Hacienda.exe
+E:\Programa Hacienda\Programa Hacienda\bin\Debug\Programa Hacienda.pdb
+E:\Programa Hacienda\Programa Hacienda\bin\Debug\Interop.AcroPDFLib.dll
+E:\Programa Hacienda\Programa Hacienda\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Historial.resources
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Logeo.resources
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Manual.resources
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Menu_Principal.resources
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Oficinas_Principales.resources
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Properties.Resources.resources
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Unidad_Responsable.resources
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa Hacienda.csproj.GenerateResource.Cache
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Insertar.resources
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Insertar.resources
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Reporte.resources
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\RdlCompile.cache
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\RdlCompile.compiled
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Correo.resources
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Reporte.resources
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\RdlCompile.cache
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\RdlCompile.compiled
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa_Hacienda.Correo.resources
+D:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa Hacienda.csprojResolveAssemblyReference.cache
+E:\Programa Hacienda\Programa Hacienda\obj\Debug\Programa Hacienda.csprojResolveAssemblyReference.cache
